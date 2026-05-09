@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=200&section=header&text=Garrett%20Adams&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=IT%20Professional%20%7C%20Cybersecurity%20Student%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=IT+Professional+%26+Cybersecurity+Student;CompTIA+Certified;Server+Infrastructure+%26+Management;Full-Stack+Developer+in+Progress;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=IT+Professional+%26+Cybersecurity borderCollapse: "collapse", fontSize: 13 }}>+Student;CompTIA+Certified;Server+Infrastructure+%26+Management;Full-Stack+Developer+in+Progress;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!-- Profile Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-myitguy.netlify.app-00b4d8?style=for-the-badge&logo=netlify&logoColor=white)](https://myitguy.netlify.app)
@@ -23,14 +23,15 @@ location:    United States
 occupation:  IT Professional & Cybersecurity Student
 certifications:
   - CompTIA A+
-  - CompTIA Network+
   - CompTIA Security+
+  - CompTIA CySA+
 focus_areas:
   - Cybersecurity & Threat Analysis
   - Server Infrastructure & Management
   - Full-Stack Web Development
   - AI-Powered Application Building
 portfolio:   https://myitguy.netlify.app
+GitHub:      https://github.com/garrettadams23
 ```
 
 - 🔐 Cybersecurity student with hands-on IT experience
@@ -46,10 +47,10 @@ portfolio:   https://myitguy.netlify.app
 
 <div align="center">
 
-[![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](#)
-[![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](#)
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](#)
-
+[![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/cfa0e8d7-b07e-4965-bd77-7ce798962591/public_url)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/cc8065d2-e041-431c-b5d8-0104bc37f0fd/public_url)
+[![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+](https://www.credly.com/badges/6b56a78d-10f0-45f5-9876-52ad749c5542)
 </div>
 
 ---
@@ -65,8 +66,8 @@ portfolio:   https://myitguy.netlify.app
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](#)
 [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)](#)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://www.w3.org/TR/2011/WD-html5-20110405)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/TR/2001/WD-css3-roadmap-20010523)
 
 </div>
 
@@ -74,9 +75,9 @@ portfolio:   https://myitguy.netlify.app
 
 <div align="center">
 
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](#)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/en)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
 [![Anthropic SDK](https://img.shields.io/badge/Anthropic_API-000000?style=flat-square&logo=anthropic&logoColor=white)](#)
 
 </div>
@@ -85,9 +86,10 @@ portfolio:   https://myitguy.netlify.app
 
 <div align="center">
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](#)
-[![Neon](https://img.shields.io/badge/Neon_Console-00E5BC?style=flat-square&logo=neon&logoColor=black)](#)
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Neon](https://img.shields.io/badge/Neon_Console-00E5BC?style=flat-square&logo=neon&logoColor=black)](https://console.neon.tech)
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://app.netlify.com)
+[![Twingate](https://img.shields.io/badge/Twingate-00C7B7%3F?style=flat-square&logo=netlify&logoColor=white)](https://www.twingate.com)
 
 </div>
 
@@ -97,12 +99,12 @@ portfolio:   https://myitguy.netlify.app
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](#)
 [![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](#)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](#)
-[![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://www.wireshark.org)
+[![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)](https://www.pfsense.org)
 
 </div>
 
@@ -175,11 +177,11 @@ portfolio:   https://myitguy.netlify.app
 
 | Area | Resource | Status |
 |------|----------|--------|
-| 🔐 **Cybersecurity** | TryHackMe / HTB Labs | 🟢 Active |
+| 🔐 **Cybersecurity** | TryHackMe / HTB Labs | 🟡 In Progress  |
 | ☁️ **Cloud Security** | AWS Security Specialty path | 🟡 In Progress |
 | 🐧 **Linux Hardening** | CIS Benchmarks + STIG | 🟢 Active |
 | 🤖 **AI & Automation** | Anthropic API + MCP integrations | 🟢 Active |
-| 🗄️ **Databases** | PostgreSQL advanced queries & indexing | 🟡 In Progress |
+| 🗄️ **Databases** | PostgreSQL advanced queries & indexing | 🟢 Active |
 | 🐳 **Containers** | Docker + container security | 🟠 Upcoming |
 
 </div>
@@ -189,17 +191,15 @@ portfolio:   https://myitguy.netlify.app
 ## 🗺️ Certification Roadmap
 
 ```
-EARNED ─────────────────────────────────────── IN PROGRESS ─── PLANNED
-   │                                                 │              │
-[A+] ──► [Network+] ──► [Security+] ──► [CySA+] ──► [CASP+] ──► [CISSP]
-                                             │
-                                        [Pentest+]
-                                             │
-                                   [AWS Cloud Practitioner]
-                                             │
-                                  [AWS Solutions Architect]
-                                             │
-                                   [AWS Security Specialty]
+EARNED ──────────────────────────── IN PROGRESS ─────────────────── PLANNED
+   │                                     │                             │
+[A+]──►[Security+]──►[CySA+]──►[Pentest+]──►[SecurityX]──►[CISSP]──►[ISSEP]
+                                                                 │
+                                                    [AWS Cloud Practitioner]
+                                                                 │
+                                                    [AWS Solutions Architect]
+                                                                 │
+                                                    [AWS Security Specialty]
 ```
 
 <div align="center">
@@ -207,9 +207,13 @@ EARNED ────────────────────────�
 ![A+](https://img.shields.io/badge/A%2B-✅_Earned-28a745?style=flat-square)
 ![Network+](https://img.shields.io/badge/Network%2B-✅_Earned-28a745?style=flat-square)
 ![Security+](https://img.shields.io/badge/Security%2B-✅_Earned-28a745?style=flat-square)
-![CySA+](https://img.shields.io/badge/CySA%2B-🔄_Studying-f0ad4e?style=flat-square)
-![CASP+](https://img.shields.io/badge/CASP%2B-📅_Planned-6c757d?style=flat-square)
-![AWS SAA](https://img.shields.io/badge/AWS_SAA-📅_Planned-6c757d?style=flat-square)
+![CySA+](https://img.shields.io/badge/CySA%2B-✅_Earned-28a745?style=flat-square)
+![Pentest+](https://img.shields.io/badge/Pentest%2B-🔄_Studying-f0ad4e?style=flat-square)
+![SecurityX](https://img.shields.io/badge/SecurityX-📅_Planned-6c757d%3F?style=flat-square)
+![CISSP](https://img.shields.io/badge/CISSP-📅_Planned-6c757d%3F?style=flat-square)
+![ISSEP](https://img.shields.io/badge/ISSEP-📅_Planned-6c757d%3F?style=flat-square)
+
+
 
 </div>
 
@@ -221,7 +225,6 @@ EARNED ────────────────────────�
 
 [![Nexus Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=garrettadams23&repo=nexus-dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff)](https://github.com/garrettadams23/nexus-dashboard)
 [![Server Management Service](https://github-readme-stats.vercel.app/api/pin/?username=garrettadams23&repo=server-management-service&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff)](https://github.com/garrettadams23/server-management-service)
-
 [![myitguy Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=garrettadams23&repo=myitguy-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff)](https://github.com/garrettadams23/myitguy-portfolio)
 [![Portfolio DB](https://github-readme-stats.vercel.app/api/pin/?username=garrettadams23&repo=portfolio-db&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff)](https://github.com/garrettadams23/portfolio-db)
 
