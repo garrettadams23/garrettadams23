@@ -190,9 +190,9 @@ GitHub:      https://github.com/garrettadams23
 ## 🗺️ Certification Roadmap
 
 ```
-EARNED ──────────────────────────── IN PROGRESS ─────────────────── PLANNED
-   │                                     │                             │
-[A+]──►[Security+]──►[CySA+]──►[Pentest+]──►[SecurityX]──►[CISSP]──►[ISSEP]
+EARNED ──────────────────────────── IN PROGRESS ─────────────────────────────── PLANNED
+   │                                     │                                         │
+[A+] ──► [Security+] ──► [CySA+] ──► [Pentest+] ──► [SecurityX] ──► [CISSP] ──►[ ISSEP]
                                                                  │
                                                     [AWS Cloud Practitioner]
                                                                  │
@@ -313,7 +313,7 @@ Go                       1 repo              ███░░░░░░░░�
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-myitguy.netlify.app-00b4d8?style=for-the-badge)](https://myitguy.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-garrettadams23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garrettadams23)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garrettadams23)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garrett@myitguy.netlify.app)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garrettadams1010@gmail.com)
 
 </div>
 
