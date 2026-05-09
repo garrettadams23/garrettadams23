@@ -4,8 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=200&section=header&text=Garrett%20Adams&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=IT%20Professional%20%7C%20Cybersecurity%20Student%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=IT+Professional+%26+Cybersecurity borderCollapse: "collapse", fontSize: 13 }}>+Student;CompTIA+Certified;Server+Infrastructure+%26+Management;Full-Stack+Developer+in+Progress;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=IT+Professional+%26+Cybersecurity+Student;CompTIA+Certified;Server+Infrastructure+%26+Management;Full-Stack+Developer+in+Progress;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 <!-- Profile Badges -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-myitguy.netlify.app-00b4d8?style=for-the-badge&logo=netlify&logoColor=white)](https://myitguy.netlify.app)
 [![GitHub followers](https://img.shields.io/github/followers/garrettadams23?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=00b4d8)](https://github.com/garrettadams23?tab=followers)
@@ -29,7 +28,7 @@ focus_areas:
   - Cybersecurity & Threat Analysis
   - Server Infrastructure & Management
   - Full-Stack Web Development
-  - AI-Powered Application Building
+  - AI-Powered Application Building (subagents, skill & MCP)
 portfolio:   https://myitguy.netlify.app
 GitHub:      https://github.com/garrettadams23
 ```
