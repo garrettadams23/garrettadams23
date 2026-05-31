@@ -164,8 +164,8 @@ GitHub:      https://github.com/garrettadams23
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-<!-- This section is auto-updated every 30 minutes by the Update Recent Activity workflow -->
-<!-- After setup, your 6 most recent GitHub events will appear here automatically -->
+1. 💪 Opened PR [#1](https://github.com/garrettadams23/MyITGuy/pull/1) in [garrettadams23/MyITGuy](https://github.com/garrettadams23/MyITGuy)
+2. 🎉 Merged PR [#1](https://github.com/garrettadams23/Studies/pull/1) in [garrettadams23/Studies](https://github.com/garrettadams23/Studies)
 <!--END_SECTION:activity-->
 
 ---
