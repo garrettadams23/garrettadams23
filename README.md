@@ -48,8 +48,7 @@ GitHub:      https://github.com/garrettadams23
 
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/cfa0e8d7-b07e-4965-bd77-7ce798962591/public_url)
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/cc8065d2-e041-431c-b5d8-0104bc37f0fd/public_url)
-[![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
-](https://www.credly.com/badges/6b56a78d-10f0-45f5-9876-52ad749c5542)
+[![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/6b56a78d-10f0-45f5-9876-52ad749c5542/public_url)
 </div>
 
 ---
@@ -88,7 +87,7 @@ GitHub:      https://github.com/garrettadams23
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 [![Neon](https://img.shields.io/badge/Neon_Console-00E5BC?style=flat-square&logo=neon&logoColor=black)](https://console.neon.tech)
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://app.netlify.com)
-[![Twingate](https://img.shields.io/badge/Twingate-00C7B7%3F?style=flat-square&logo=netlify&logoColor=white)](https://www.twingate.com)
+[![Twingate](https://img.shields.io/badge/Twingate-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://www.twingate.com)
 
 </div>
 
@@ -208,9 +207,9 @@ EARNED ────────────────────────�
 ![Security+](https://img.shields.io/badge/Security%2B-✅_Earned-28a745?style=flat-square)
 ![CySA+](https://img.shields.io/badge/CySA%2B-✅_Earned-28a745?style=flat-square)
 ![Pentest+](https://img.shields.io/badge/Pentest%2B-🔄_Studying-f0ad4e?style=flat-square)
-![SecurityX](https://img.shields.io/badge/SecurityX-📅_Planned-6c757d%3F?style=flat-square)
-![CISSP](https://img.shields.io/badge/CISSP-📅_Planned-6c757d%3F?style=flat-square)
-![ISSEP](https://img.shields.io/badge/ISSEP-📅_Planned-6c757d%3F?style=flat-square)
+![SecurityX](https://img.shields.io/badge/SecurityX-📅_Planned-6c757d?style=flat-square)
+![CISSP](https://img.shields.io/badge/CISSP-📅_Planned-6c757d?style=flat-square)
+![ISSEP](https://img.shields.io/badge/ISSEP-📅_Planned-6c757d?style=flat-square)
 
 
 
@@ -224,7 +223,7 @@ EARNED ────────────────────────�
 
 [![Nexus Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=garrettadams23&repo=nexus-dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff)](https://github.com/garrettadams23/nexus-dashboard)
 [![Server Management Service](https://github-readme-stats.vercel.app/api/pin/?username=garrettadams23&repo=server-management-service&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff)](https://github.com/garrettadams23/server-management-service)
-[![myitguy Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=garrettadams23&repo=myitguy-portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff)](https://github.com/garrettadams23/myitguy-portfolio)
+[![MyITGuy Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=garrettadams23&repo=MyITGuy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff)](https://github.com/garrettadams23/MyITGuy)
 [![Portfolio DB](https://github-readme-stats.vercel.app/api/pin/?username=garrettadams23&repo=portfolio-db&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff)](https://github.com/garrettadams23/portfolio-db)
 
 </div>
