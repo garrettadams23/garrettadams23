@@ -163,8 +163,8 @@ GitHub:      https://github.com/garrettadams23
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/garrettadams23/MyITGuy/pull/15) in [garrettadams23/MyITGuy](https://github.com/garrettadams23/MyITGuy)
-2. 💪 Opened PR [#15](https://github.com/garrettadams23/MyITGuy/pull/15) in [garrettadams23/MyITGuy](https://github.com/garrettadams23/MyITGuy)
+1. 🎉 Merged PR [#1](https://github.com/garrettadams23/Studies-4-Chemical-Engineer/pull/1) in [garrettadams23/Studies-4-Chemical-Engineer](https://github.com/garrettadams23/Studies-4-Chemical-Engineer)
+2. 💪 Opened PR [#1](https://github.com/garrettadams23/Studies-4-Chemical-Engineer/pull/1) in [garrettadams23/Studies-4-Chemical-Engineer](https://github.com/garrettadams23/Studies-4-Chemical-Engineer)
 <!--END_SECTION:activity-->
 
 ---
