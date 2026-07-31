@@ -163,8 +163,8 @@ GitHub:      https://github.com/garrettadams23
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/garrettadams23/Studies/pull/20) in [garrettadams23/Studies](https://github.com/garrettadams23/Studies)
-2. 💪 Opened PR [#20](https://github.com/garrettadams23/Studies/pull/20) in [garrettadams23/Studies](https://github.com/garrettadams23/Studies)
+1. 🎉 Merged PR [#21](https://github.com/garrettadams23/Studies/pull/21) in [garrettadams23/Studies](https://github.com/garrettadams23/Studies)
+2. 💪 Opened PR [#21](https://github.com/garrettadams23/Studies/pull/21) in [garrettadams23/Studies](https://github.com/garrettadams23/Studies)
 <!--END_SECTION:activity-->
 
 ---
