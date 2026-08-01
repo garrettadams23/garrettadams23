@@ -163,8 +163,8 @@ GitHub:      https://github.com/garrettadams23
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/garrettadams23/Studies-4-Chemical-Engineer/pull/14) in [garrettadams23/Studies-4-Chemical-Engineer](https://github.com/garrettadams23/Studies-4-Chemical-Engineer)
-2. 💪 Opened PR [#14](https://github.com/garrettadams23/Studies-4-Chemical-Engineer/pull/14) in [garrettadams23/Studies-4-Chemical-Engineer](https://github.com/garrettadams23/Studies-4-Chemical-Engineer)
+1. 🎉 Merged PR [#24](https://github.com/garrettadams23/Studies/pull/24) in [garrettadams23/Studies](https://github.com/garrettadams23/Studies)
+2. 💪 Opened PR [#24](https://github.com/garrettadams23/Studies/pull/24) in [garrettadams23/Studies](https://github.com/garrettadams23/Studies)
 <!--END_SECTION:activity-->
 
 ---
