@@ -219,12 +219,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="431.43714131877584" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="431.43714131877584" y="0" width="13.812985233594713" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="445.2501265523706" y="0" width="8.366963253239607" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="453.6170898056102" y="0" width="5.995433788068202" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="459.6125235936784" y="0" width="0.26297283135913013" height="8" fill="#336790"/>
-                    <rect mask="url(#languages-bar)" x="459.8754964250375" y="0" width="0.12450357496247834" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="431.30795476676457" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="431.30795476676457" y="0" width="13.946588385640695" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="445.25454315240523" y="0" width="8.36445790766322" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="453.61900106006846" y="0" width="5.993638556863663" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="459.61263961693214" y="0" width="0.2628940885943044" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="459.87553370552644" y="0" width="0.1244662944735679" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1301,7 +1301,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MicrosoftDocs/microsoft-365-docs</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repo is used to host the source for the Microsoft 365 documentation on https://docs.microsoft.com.</div>
@@ -1498,7 +1498,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Sept 2026, 05:04:14 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Sept 2026, 09:43:56 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
