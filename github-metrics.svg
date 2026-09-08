@@ -1318,7 +1318,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MicrosoftDocs/microsoft-365-docs</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repo is used to host the source for the Microsoft 365 documentation on https://docs.microsoft.com.</div>
@@ -1515,7 +1515,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Sept 2026, 11:08:52 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Sept 2026, 15:49:10 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
