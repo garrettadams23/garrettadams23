@@ -1302,7 +1302,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/Microsoft-Win32-Content-Prep-Tool</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool to wrap Win32 App and then it can be uploaded to Intune</div>
@@ -1343,7 +1343,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NUWCDIVNPT/stig-manager</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An API and client for managing STIG assessments</div>
@@ -1499,7 +1499,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Oct 2026, 12:49:22 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Oct 2026, 16:54:42 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
