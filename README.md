@@ -163,8 +163,8 @@ GitHub:      https://github.com/garrettadams23
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#166](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool/pull/166#issuecomment-5956873439) in [microsoft/Microsoft-Win32-Content-Prep-Tool](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool)
-2. 💪 Opened PR [#166](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool/pull/166) in [microsoft/Microsoft-Win32-Content-Prep-Tool](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool)
+1. ℹ️ Assigned PR [#68](https://github.com/garrettadams23/Studies/pull/68) in [garrettadams23/Studies](https://github.com/garrettadams23/Studies)
+2. 💪 Opened PR [#68](https://github.com/garrettadams23/Studies/pull/68) in [garrettadams23/Studies](https://github.com/garrettadams23/Studies)
 <!--END_SECTION:activity-->
 
 ---
